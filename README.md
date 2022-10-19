@@ -14,7 +14,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./public/images/Screenshot%202022-10-19%20at%2021-46-52%20Frontend%20Mentor%20Profile%20card%20component.png)
+![image](https://user-images.githubusercontent.com/47444914/196804156-1da7b909-7a97-46c9-9edf-dc6348762874.png)
 
 ### Links
 
